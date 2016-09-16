@@ -1,1 +1,6 @@
 //Include the output of git status here
+O n   b r a n c h   m a s t e r  
+ Y o u r   b r a n c h   i s   a h e a d   o f   ' o r i g i n / m a s t e r '   b y   1   c o m m i t .  
+     ( u s e   " g i t   p u s h "   t o   p u b l i s h   y o u r   l o c a l   c o m m i t s )  
+ n o t h i n g   t o   c o m m i t ,   w o r k i n g   t r e e   c l e a n  
+ 

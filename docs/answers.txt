@@ -1,0 +1,11 @@
+a) 3
+b) Date: Thu Sep 15 10:29:34 2016
+c) BasicWeapon.java= 1 (Date Thu Sep 15 13:36:30 2016)
+   RoleGame.java= 1 (Date Thu Sep 15 10:27:32 2016)
+   Sword.java= 2 (Date Thu Sep 15 13:36:30 2016 &  Thu Sep 15 10:27:32 2016)
+   Weapon.java= 1 (Date Thu Sep 15 10:27:32 2016)
+   WeaponFactory.java= 1 (Date Thu Sep 15 10:27:32 2016)
+d) git status command gives state of the working directory like which all changes have been staged,which are not.It doesn't give any information about the committed history. Whereas, git log command gives you the project history,committed changes being done to let you inspect the directory.
+e) git log -- RoleGame.java
+f) git log --grep=file
+g) git log --author=Alice --before=09/16/2016 --after=09/01/2016
